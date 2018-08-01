@@ -1,0 +1,200 @@
+[
+    {
+        "dataSource": "mongo",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "588",
+        "start": "1493944000",
+        "end": "1493944800"
+    },
+    {
+        "dataSource": "mongo",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10804",
+        "start": "1481523000",
+        "end": "1481523600"
+    },
+    {
+        "dataSource": "mongo",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "589",
+        "start": "1495730860",
+        "end": "1495731360"
+    },
+    {
+        "dataSource": "mongo",
+        "faked": true,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "558",
+        "start": "1495824800",
+        "end": "1495825400"
+    },
+    {
+        "dataSource": "mongo",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "558",
+        "start": "1497149400",
+        "end": "1497150000"
+    },
+    {
+        "dataSource": "mongo",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "588",
+        "start": "1499880600",
+        "end": "1499881200"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": true,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10587",
+        "start": "2017-09-02 06:08:00",
+        "end": "2017-09-02 06:12:00"
+    },
+    {
+        "dataSource": "pg-prod",
+        "faked": true,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "11730",
+        "start": "2017-10-06 13:20:00",
+        "end": "2017-10-06 13:30:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "11082",
+        "start": "2017-10-13 15:20:00",
+        "end": "2017-10-13 15:30:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10557",
+        "start": "2017-11-08 14:25:00",
+        "end": "2017-11-08 14:40:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": true,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "11167",
+        "start": "2017-11-28 18:27:00",
+        "end": "2017-11-28 18:37:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10588",
+        "start": "2017-12-15 05:10:00",
+        "end": "2017-12-15 05:20:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": true,
+        "atypical": false,
+        "userId": "10587",
+        "start": "2018-01-25 21:40:00",
+        "end": "2018-01-25 21:45:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10588",
+        "start": "2018-02-23 07:07:00",
+        "end": "2018-02-23 07:12:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10588",
+        "start": "2018-02-23 10:25:00",
+        "end": "2018-02-23 10:31:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": true,
+        "atypical": true,
+        "userId": "10557",
+        "start": "2018-03-11 06:04:00",
+        "end": "2018-03-11 06:10:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": true,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10588",
+        "start": "2018-04-09 17:30:00",
+        "end": "2018-04-09 17:45:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": true,
+        "atypical": false,
+        "userId": "10584",
+        "start": "2018-05-02 03:44:00",
+        "end": "2018-05-02 03:48:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10557",
+        "start": "2018-06-22 02:19:00",
+        "end": "2018-06-22 02:29:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": true,
+        "atypical": true,
+        "userId": "10587",
+        "start": "2018-06-22 13:37:00",
+        "end": "2018-06-22 13:47:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "10557",
+        "start": "2018-06-29 11:43:00",
+        "end": "2018-06-29 11:53:00"
+    },
+    {
+        "dataSource": "pg-stage",
+        "faked": false,
+        "falseNegative": false,
+        "atypical": false,
+        "userId": "11169",
+        "start": "2018-07-04 13:22:00",
+        "end": "2018-07-04 13:32:00"
+    }
+]
