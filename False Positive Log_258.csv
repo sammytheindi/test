@@ -1,0 +1,7 @@
+﻿Participant ,TOE,HR Baseline,HR Peak,Payloads,Offset,Build
+JH84553989,Restroom (hand wash),58,96,"select * from time_series_index where user_id = 10587 AND (started, ended) OVERLAPS ('2018-04-23 22:58:00', '2018-04-23 23:05:00')",4,258
+JH84553989,Restroom (shaving),53,77,"select * from time_series_index where user_id = 10587 AND (started, ended) OVERLAPS ('2018-04-24 23:24:00', '2018-04-24 23:30:00')",4,258
+JH84553989,Restroom (UNK),53,98,"select * from time_series_index where user_id = 10587 AND (started, ended) OVERLAPS ('2018-04-28 12:52:00', '2018-04-28 12:58:20')",4,258
+JH84166570,Restroom  (UNK),63,110,"select * from time_series_index where user_id = 10584  AND (started, ended) OVERLAPS ('2018-05-01 09:36:00', '2018-05-01 09:46:00')",4,258
+JH26996717,Restroom  (UNK),77,153,"select * from time_series_index where user_id = 10588  AND (started, ended) OVERLAPS ('2018-06-05 22:31:00', '2018-06-05 22:34:00')",4,258
+JH62133565,Essencial Tremor,80,113,"select * from time_series_index where user_id = 10557 AND (started, ended) OVERLAPS ('2018-06-09 05:20:00', '2018-06-09 05:25:00')",4,258
